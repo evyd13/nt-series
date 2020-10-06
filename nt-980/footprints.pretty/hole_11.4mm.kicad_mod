@@ -1,0 +1,11 @@
+(module "hole_11.4mm" (layer F.Cu) (tedit 5F255166)
+  (fp_text reference "REF**" (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1e74cbc1-8fb6-4170-a790-eeaee4a67cb6)
+  )
+  (fp_text value "hole_11.4mm" (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f5af6bf5-eb38-4ac1-a8a0-2976eb067ab5)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 11.4 11.4) (drill 11.4) (layers *.Cu *.Mask) (tstamp ec7a91c7-dd9f-43ff-bd27-7260f448cac9))
+)
