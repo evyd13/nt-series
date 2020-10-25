@@ -2,6 +2,8 @@
 
 This is a replacement PCB for the FC750r.
 
+[!nt-750 PCB](https://i.imgur.com/A21G9az.png)
+
 ## BOM
 
 | LCSC part # | Description   | Value | Package  | Amount |

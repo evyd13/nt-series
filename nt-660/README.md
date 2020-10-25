@@ -2,6 +2,8 @@
 
 This is a replacement PCB for the FC660m.
 
+[!nt-660 PCB](https://i.imgur.com/b8xruV9.png)
+
 ## Revisions
 
 ### rev1.1

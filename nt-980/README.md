@@ -2,6 +2,8 @@
 
 This is a replacement PCB for the FC980m.
 
+[!nt-980 PCB](https://i.imgur.com/GgDrTDp.png)
+
 ## BOM
 
 | LCSC part # | Description   | Value | Package  | Amount |
