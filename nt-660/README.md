@@ -2,6 +2,14 @@
 
 This is a replacement PCB for the FC660m.
 
+## Revisions
+
+### rev1.1
+Adds FC660C bottom row (1.25u - 1.25u - 1.25u - 6u - ...)
+
+### rev1.0
+First revision
+
 ## BOM
 
 | LCSC part # | Description   | Value | Package  | Amount |
