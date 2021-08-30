@@ -5,3 +5,5 @@ Firmware for nt-980 PCB
 - VIAL.nt980.dk.hex - Firmware for DK version of PCB
 - VIAL.nt980.dk.zip (supporting configurations for VIAL firmware compile)
 - VIAL.nt980.hex - VIAL firmware for original nt-980
+
+If just looking for basic QMK firmware use QMK Configurator to generate it (or a local build environment for QMK)
