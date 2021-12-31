@@ -1,4 +1,8 @@
 # nt-series
+
+## FC660C
+Please see the controller for the FC660C [here](https://github.com/evyd13/fc660c-controller).
+
 Replacement PCBs for the FC660m, FC750r and FC980m.
 
 Each of these PCBs have been tested by me, but I cannot guarantee that they work for you.
