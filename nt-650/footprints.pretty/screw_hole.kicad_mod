@@ -1,0 +1,13 @@
+(footprint "screw_hole" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4eedc921-c1dc-4d0f-a530-6fc6ef0a972f)
+  )
+  (fp_text value "VAL**" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e351b276-0a4b-4a7f-af18-5f499961be52)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.5) (layers F&B.Cu *.Mask) (tstamp 96f2272c-f47b-45f5-b46e-1c85a6f5d8f7))
+)
